@@ -1,4 +1,5 @@
-// Sports Car Java
+// Sports Car Java - A simple OOP example
+// This class demonstrates basic object-oriented programming concepts
 
 // class SportsCar
 public class SportsCar {
